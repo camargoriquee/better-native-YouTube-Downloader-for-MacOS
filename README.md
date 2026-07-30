@@ -78,17 +78,6 @@ Available in **6 languages**: English, Portuguese, Spanish, French, Japanese, an
 1. Download the latest `.zip` from the [Releases](../../releases) tab
 2. Unzip it and drag `Slidown.app` into your Applications folder
 
-> ### ⚠️ Important: this app is not signed by Apple
-> Slidown is an independent personal project and **has not gone through Apple's paid notarization process**. Because of this, **macOS will block it on first launch** with an "unidentified developer" warning — this is expected, not an error. You need to do one of the following **before it will open**:
->
-> - **Simplest**: right-click on `Slidown.app` → **Open** → confirm on the prompt that appears (only needed once)
-> - **Via Terminal**: open Terminal and run this command (adjust the path if you installed it elsewhere):
->   ```
->   xattr -cr /Applications/Slidown.app
->   ```
->
-> This is standard behavior for any app distributed outside the App Store, not an issue specific to Slidown — but skipping this step means the app simply won't open.
-
 ### No ads, ever
 Slidown shows no ads, sells no data, and has no commercial tracking of any kind built in. It's a personal tool, built for personal use.
 
@@ -166,17 +155,6 @@ Disponível em **6 idiomas**: português, inglês, espanhol, francês, japonês 
 1. Baixa o `.zip` mais recente na aba [Releases](../../releases)
 2. Descompacta e arrasta o `Slidown.app` pra pasta Aplicativos
 
-> ### ⚠️ Importante: esse app não é assinado pela Apple
-> O Slidown é um projeto pessoal independente e **não passou pelo processo de notarização da Apple** (que é pago). Por causa disso, **o macOS vai bloquear a primeira abertura** com um aviso de "desenvolvedor não identificado" — isso é esperado, não é erro. Você precisa fazer um dos dois abaixo **antes do app conseguir abrir**:
->
-> - **Mais simples**: clica com o botão direito em cima do `Slidown.app` → **Abrir** → confirma no aviso que aparece (só precisa fazer isso uma vez)
-> - **Via Terminal**: abre o Terminal e roda esse comando (ajusta o caminho se instalou em outro lugar):
->   ```
->   xattr -cr /Applications/Slidown.app
->   ```
->
-> Isso é uma característica normal de qualquer app distribuído fora da App Store, não é um problema específico do Slidown — mas pular essa etapa significa que o app simplesmente não vai abrir.
-
 ### Sem publicidade, nunca
 O Slidown não mostra anúncios, não vende dados, não tem nenhum tipo de rastreamento comercial embutido. É uma ferramenta pessoal, feita pra uso pessoal.
 
@@ -253,17 +231,6 @@ Disponible en **6 idiomas**: español, inglés, portugués, francés, japonés y
 ### Instalación
 1. Descarga el `.zip` más reciente en la pestaña [Releases](../../releases)
 2. Descomprímelo y arrastra `Slidown.app` a la carpeta Aplicaciones
-
-> ### ⚠️ Importante: esta app no está firmada por Apple
-> Slidown es un proyecto personal independiente y **no pasó por el proceso de notarización pago de Apple**. Por eso, **macOS va a bloquear la primera apertura** con un aviso de "desarrollador no identificado" — esto es esperado, no es un error. Necesitas hacer uno de los dos pasos siguientes **antes de que la app pueda abrirse**:
->
-> - **Más simple**: clic derecho sobre `Slidown.app` → **Abrir** → confirma en el aviso que aparece (solo hace falta una vez)
-> - **Vía Terminal**: abre la Terminal y ejecuta este comando (ajusta la ruta si lo instalaste en otro lugar):
->   ```
->   xattr -cr /Applications/Slidown.app
->   ```
->
-> Esto es un comportamiento normal de cualquier app distribuida fuera de la App Store, no un problema propio de Slidown — pero saltar este paso significa que la app simplemente no se abrirá.
 
 ### Sin publicidad, nunca
 Slidown no muestra anuncios, no vende datos, no tiene ningún tipo de rastreo comercial integrado. Es una herramienta personal, hecha para uso personal.
